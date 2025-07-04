@@ -22,12 +22,11 @@ Players can choose to play against **another player** or against an **AI opponen
 ---
 
 ## 🗂️ Project Structure
-
+```
 ├── index.html # Game layout & UI structure
 ├── styles.css # Styling and responsive design
 ├── script.js # Game logic & AI implementation
-
-
+```
 ---
 
 ## ⚙️ Technologies Used
@@ -86,7 +85,7 @@ Players can choose to play against **another player** or against an **AI opponen
 
 ## 📬 Contact
 
-- 📧 [Email](mailto:shelatkarvedang2@gmail.com)  
+- [Email](mailto:shelatkarvedang2@gmail.com)  
 - [LinkedIn](https://linkedin.com/in/vedang-shelatkar-b3839a26a)
 - [GitHub](https://github.com/CodeWithVedang)
 
